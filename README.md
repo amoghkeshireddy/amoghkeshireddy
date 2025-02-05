@@ -1,2 +1,2 @@
-## amogh
+## Amogh
 ml, ai
